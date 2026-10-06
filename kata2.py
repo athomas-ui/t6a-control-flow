@@ -1,4 +1,5 @@
-for day in range (1,61): 
+# Warehouse Audit Calendar with 30 day range 
+for day in range (1,31): 
     if day % 3 == 0 and day % 5 == 0:
         print(f"Day {day}: FULL AUDIT")
     elif day % 3 == 0:
