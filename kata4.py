@@ -1,4 +1,4 @@
-# Incident Validation (guard clauses)
+## Incident Validation (guard clauses)
 incidents = [
     {"id": "INC-1001", "branch": "DC-North", "severity": 2},
     {"id": "INC-1002", "branch": None, "severity": 1},
