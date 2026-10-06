@@ -1,4 +1,4 @@
-for day in range (1,31): 
+for day in range (1,61): 
     if day % 3 == 0 and day % 5 == 0:
         print(f"Day {day}: FULL AUDIT")
     elif day % 3 == 0:
